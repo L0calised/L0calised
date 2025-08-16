@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on projects
-- 📫 divyanshsharma293@gmail.com
+- 📫 ...@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I create raw codes 
 
