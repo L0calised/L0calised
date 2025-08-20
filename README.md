@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L0calised
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Coding
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects
 - 📫 ...@gmail.com
 - 😄 Pronouns: He/Him
