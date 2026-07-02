@@ -1,22 +1,17 @@
-# Divyansh Sharma
 
-CS Student
+• # Hi, I'm L0calised
 
-- C++
-- Python
-- JavaScript
-- Java
+  I'm a developer who enjoys building practical projects, exploring new technologies, and
+  improving through hands-on programming.
 
-Interested in:
-- Competitive Programming
-- Algorithms
-- Linux
-- Systems Programming
-- Open Source
+  ## About Me
 
-Currently solving problems on Codeforces and AtCoder.
+  - Currently expanding my programming skills
+  - Interested in software development and open-source projects
+  - Open to collaborating on useful and interesting ideas
+  - I enjoy turning ideas into working code
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=L0calised&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0calised&layout=compact&hide_border=true" />
-</p>
+  ## Connect
+
+  - GitHub: [@L0calised](https://github.com/L0calised)
+  - Email: your-email@gmail.com
