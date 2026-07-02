@@ -1,17 +1,59 @@
+```text
+██████╗ ██╗██╗   ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
+██╔══██╗██║██║   ██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║
+██║  ██║██║██║   ██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║
+██║  ██║██║╚██╗ ██╔╝  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║
+██████╔╝██║ ╚████╔╝    ██║   ██║  ██║██║ ╚████║███████║██║  ██║
+╚═════╝ ╚═╝  ╚═══╝     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+```
 
-• # Hi, I'm L0calised
+Computer Science Student
 
-  I'm a developer who enjoys building practical projects, exploring new technologies, and
-  improving through hands-on programming.
+Currently focused on competitive programming and low-level software.
 
-  ## About Me
+```
+Languages
+├── C++
+├── Python
+├── JavaScript
+└── Java
+```
 
-  - Currently expanding my programming skills
-  - Interested in software development and open-source projects
-  - Open to collaborating on useful and interesting ideas
-  - I enjoy turning ideas into working code
+```
+Interests
+├── Algorithms
+├── Data Structures
+├── Linux
+├── Systems Programming
+└── Open Source
+```
 
-  ## Connect
+```
+Currently
+├── Codeforces
+├── AtCoder
+├── Building personal projects
+└── Learning one concept at a time
+```
 
-  - GitHub: [@L0calised](https://github.com/L0calised)
-  - Email: your-email@gmail.com
+---
+
+### Selected Projects
+
+- TemporalPathfinder — pathfinding engine written in C++
+- Gunshot Locator — acoustic localization prototype
+- Other experiments and small utilities
+
+---
+
+<details>
+<summary><b>Philosophy</b></summary>
+
+```
+Write code.
+Read documentation.
+Solve problems.
+Repeat.
+```
+
+</details>
