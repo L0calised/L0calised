@@ -24,7 +24,7 @@ A C++17 temporal pathfinding engine for earliest-arrival routing across time-dep
 <p align="center">
   <a href="https://github.com/L0calised/ChronoPath"><code>ChronoPath</code></a>
   &nbsp;·&nbsp;
-  <a href="https://d1vyansh.vercel.app"><code>Portfolio</code></a>
+  <a href="https://dvynsh.vercel.app"><code>Portfolio</code></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/L0calised?tab=repositories"><code>Repositories</code></a>
 </p>
